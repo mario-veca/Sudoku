@@ -1,4 +1,6 @@
 # Sudoku Solver 
+(**Last Updated**: January 21, 2025)
+
 This repository contains a Jupyter Notebook that solves a standard Sudoku puzzle using a backtracking algorithm.
 
 ## Features
